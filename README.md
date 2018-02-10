@@ -1,5 +1,5 @@
 # SnipPy
-SnipPy is an open source snipping tool for Windows written in Python. It operates from the command-line with the `snippy` command. The goal of this project is to support other tools which can trigger the tool from the command line and use the output from the Windows lipboard.
+SnipPy is an open source snipping tool for Windows written in Python. It operates from the command-line with the `snippy` command and allows you to capture a part of the screen, which then gets copied to the Windows clipboard for pasting. The goal of this project is to support other tools which can trigger the tool from the command line and use the output from the Windows clipboard.
 
 ## Getting started
 ### Prequisites
