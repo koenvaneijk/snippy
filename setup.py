@@ -14,6 +14,6 @@ setup(name='SnipPy',
       packages=['snippy'],
       install_requires=[
           'PyQt5==5.10',
-          'Pillow==5.0.0',
+          'Pillow==6.2.0',
       ],
 )
